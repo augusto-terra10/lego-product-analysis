@@ -14,9 +14,9 @@ The report contains three interactive pages:
 
 Add exported screenshots to the `Screenshots/` folder and update these links:
 
-- [LEGO Set Finder](screenshots/lego-set-finder.png)
-- [Product Explorer](screenshots/product-explorer.png)
-- [Collection Insights](screenshots/collection-insights.png)
+- [LEGO Set Finder](screenshots/Lego%20Set%20Finder.png)
+- [Product Explorer](screenshots/Product%20Explorer.png)
+- [Collection Insights](screenshots/Collection%20Insights.png)
 
 ## Business objective
 
