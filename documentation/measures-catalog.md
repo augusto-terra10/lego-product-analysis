@@ -1,6 +1,6 @@
 # Measures Catalogue
 
-The following measures are referenced by visuals in the supplied PBIX report. Descriptions are based on their names and the visuals in which they are used. DAX expressions are not reproduced because the measure definitions could not be independently extracted from the supplied PBIX file.
+The following measures are sample calculations used in the analysis. For further details on all measures created, please refer to the dashboard file.
 
 | Measure | Report use |
 |---|---|
@@ -14,5 +14,3 @@ The following measures are referenced by visuals in the supplied PBIX report. De
 | `Selected Price` | Selected-product price detail. |
 | `Selected Year` | Selected-product release-year detail. |
 | `Selected Ages` | Selected-product age detail. |
-
-For a fully reproducible measures catalogue, export or copy the actual DAX definitions from Power BI Desktop and add them to this document.
