@@ -12,7 +12,7 @@ The report contains three interactive pages:
 2. **Product Explorer** – explore the catalogue through a decomposition tree, moving from product group to theme, subtheme and individual product.
 3. **Collection Insights** – analyse product counts, release trends, price distribution, average recorded prices and the relationship between price and piece count.
 
-Add exported screenshots to the `Screenshots/` folder and update these links:
+Add exported screenshots to the `screenshots/` folder and update these links:
 
 - [LEGO Set Finder](screenshots/Lego%20Set%20Finder.png)
 - [Product Explorer](screenshots/Product%20Explorer.png)
