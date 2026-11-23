@@ -24,6 +24,8 @@ Measures observed in the report include:
 - `Selected Year`
 - `Selected Ages`
 
+Please refer to the dashboard file to explore all measures used in the analysis.
+
 ## Derived classifications
 
 The report uses additional fields to make the source catalogue easier to analyse:
@@ -39,4 +41,4 @@ The decomposition tree uses this analysis path:
 
 ## Relationship documentation
 
-The report definition confirms the table and field usage described above. Exact model relationship cardinalities and cross-filter directions are not documented here because they could not be independently verified from the supplied report definition. Capture the Model view in Power BI Desktop and update this section with the actual relationship details if you want to document them.
+There is only a single source table in this project. The primary objective was to focus on creating meaningful measures, calculations, and visualisations to support the analysis.
