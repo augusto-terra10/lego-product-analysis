@@ -8,15 +8,15 @@ A Power BI portfolio project exploring the LEGO product catalogue through intera
 
 The report contains three interactive pages:
 
-1. **LEGO Set Finder** – search and filter products, inspect product attributes and view available product images.
-2. **Product Explorer** – explore the catalogue through a decomposition tree, moving from product group to theme, subtheme and individual product.
-3. **Collection Insights** – analyse product counts, release trends, price distribution, average recorded prices and the relationship between price and piece count.
+1. **Collection Insights** – analyse product counts, release trends, price distribution, average recorded prices and the relationship between price and piece count.
+2. **LEGO Set Finder** – search and filter products, inspect product attributes and view available product images.
+3. **Product Explorer** – explore the catalogue through a decomposition tree, moving from product group to theme, subtheme and individual product.
 
-Add exported screenshots to the `screenshots/` folder and update these links:
 
-- [LEGO Set Finder](screenshots/Lego%20Set%20Finder.png)
-- [Product Explorer](screenshots/Product%20Explorer.png)
-- [Collection Insights](screenshots/Collection%20Insights.png)
+![Collection Insights](screenshots/Collection%20Insights.png)
+![LEGO Set Finder](screenshots/Lego%20Set%20Finder.png)
+![Product Explorer](screenshots/Product%20Explorer.png)
+
 
 ## Business objective
 
